@@ -1,14 +1,16 @@
 # QA-cadastrogoogle
-Criando um cadastro no google utilizando Selenium e Junit como teste
+# Criando um cadastro no google utilizando Selenium e Junit como teste.
 
-A idéia é aprender sobre Selenium e JUnit para testes funcionais e unitários.
+## A idéia é aprender sobre Selenium e JUnit para testes funcionais e unitários.
 
-Utilizei:
-. Selenium
-. Junit
-. Java
-. Ide Eclipse
-. Maven
+## Utilizei
+
+* Selenium
+* Junit
+* Java
+* Ide Eclipse
+* Maven
+
 
 O que fiz:
 
