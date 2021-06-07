@@ -3,7 +3,7 @@
 
 ## A idéia é aprender sobre Selenium e JUnit para testes funcionais e unitários.
 
-## Utilizei
+## Utilizei:
 
 * Selenium
 * Junit
