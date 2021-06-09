@@ -24,3 +24,6 @@ Considero satisfatório o progresso que tive até o momento.
 
 ### Observação:
 Caso for baixar o código para uso, já disponibilzei junto o webdriver do google, no momento a versão utilizada é a ChromeDriver 90.0.4430.24, lembre de verificar a versão do seu navegador para o teste (automatização) poder ser realziado.
+
+### Próximos passos:
+Vou implementar com o uso do BDD com Cucumber e Gherkin.
